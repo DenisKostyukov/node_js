@@ -1,0 +1,26 @@
+{
+  "name": "node_js",
+  "version": "0.0.1",
+  "description": "some project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenisKostyukov/node_js.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenisKostyukov/node_js/issues"
+  },
+  "homepage": "https://github.com/DenisKostyukov/node_js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "webpack": "^5.37.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
